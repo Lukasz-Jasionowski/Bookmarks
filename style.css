@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal&display=swap');
 
 :root {
-  --primary-color: #00061f;
+  --primary-color: #172661;
   --border-radius: 10px;
 }
 
@@ -140,6 +140,8 @@ a:active {
 
 h3 {
   margin: 0;
+  font-size: 30px;
+  text-transform: uppercase;
 }
 
 .modal-content {
